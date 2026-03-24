@@ -27,6 +27,9 @@ redirect_from:
 
 # 🏆 Competition Experience
 
+### AgiBot World Challenge 2026 世界模型赛道（2026.03-2026.04）
+- 参加 AgiBot World Challenge 2026 世界模型赛道，最终取得 **17/32** 的成绩。
+
 ### 中国机器人大赛暨 RoboCup 机器人世界杯中国赛（2024.03-2025.05）
 RoboCup@Home 家庭组项目 - 家庭服务机器人
 - 机器人定位：利用 LakiBeaml 激光雷达和 IMU，基于 Cartographer 完成场地建图。
