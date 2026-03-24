@@ -17,9 +17,6 @@ redirect_from:
 联系方式：电话 `18635930666` | 邮箱 [18635930666@163.com](mailto:18635930666@163.com) | GitHub [TONG12138666](https://github.com/TONG12138666)
 
 
-# 🔥 News
-
-
 # 🎓 Education
 
 - **北京化工大学**，机械设计制造及其自动化，本科（2022.09-2026.06）
@@ -28,7 +25,7 @@ redirect_from:
 # 🏆 Competition Experience
 
 ### AgiBot World Challenge 2026 世界模型赛道（2026.03-2026.04）
-- 参加 AgiBot World Challenge 2026 世界模型赛道，最终取得 **17/32** 的成绩。
+- 参加 AgiBot World Challenge 2026 世界模型赛道，基于官方提供的 AGIBOT WORLD 真实机器人操作数据（Premium Dataset）进行模型训练，并在 AGIBOT 自研的世界模型的基础上开展实验与优化，最终在该赛道中取得 **17/32** 的成绩。
 
 ### 中国机器人大赛暨 RoboCup 机器人世界杯中国赛（2024.03-2025.05）
 RoboCup@Home 家庭组项目 - 家庭服务机器人
@@ -47,7 +44,7 @@ RoboCup@Home 家庭组项目 - 家庭服务机器人
 
 # 🔬 Research Experience
 
-### 蛇形机器人 Sim2Real 研究 | 毕业设计（2024.09-至今）
+### 蛇形机器人 Sim2Real 研究 | 毕业设计（2025.10-2026.06）
 - 在 MuJoCo 平台进行训练仿真，获取蛇形机器人初步控制策略，并在真实环境中试验与微调。
 - 使用 Rhino 8 与 Grasshopper 进行蛇形鳞片参数化设计，实现鳞片比例、密度、方向连续可调及外壳贴合渲染输出。
 
