@@ -24,17 +24,29 @@ redirect_from:
 
 # 🏆 Competition Experience
 
-### AgiBot World Challenge 2026 世界模型赛道（2026.03-2026.04）
-- 参加 AgiBot World Challenge 2026 世界模型赛道，基于官方提供的 AGIBOT WORLD 真实机器人操作数据（Premium Dataset）进行模型训练，并在 AGIBOT 自研的世界模型的基础上开展实验与优化，最终在该赛道中取得 **17/32** 的成绩。
+<h3 style="display:flex; justify-content:space-between; align-items:flex-start; gap:1rem;">
+  <span>AgiBot World Challenge 2026 世界模型赛道（2026.03-2026.04）</span>
+  <span style="font-size:0.85em; white-space:nowrap; color:#666;">Rank: 17/32</span>
+</h3>
 
-### 中国机器人大赛暨 RoboCup 机器人世界杯中国赛（2024.03-2025.05）
+- 参加 AgiBot World Challenge 2026 世界模型赛道，基于官方提供的 AGIBOT WORLD 真实机器人操作数据（Premium Dataset）进行模型训练，并在 AGIBOT 自研的世界模型的基础上开展实验与优化。
+
+<h3 style="display:flex; justify-content:space-between; align-items:flex-start; gap:1rem;">
+  <span>中国机器人大赛暨 RoboCup 机器人世界杯中国赛（2024.03-2025.05）</span>
+  <span style="font-size:0.85em; white-space:nowrap; color:#666;">National 1st / 2nd Prize</span>
+</h3>
+
 RoboCup@Home 家庭组项目 - 家庭服务机器人
 - 机器人定位：利用 LakiBeaml 激光雷达和 IMU，基于 Cartographer 完成场地建图。
 - 物品识别：使用自采集并标注的数据训练 YOLO-v8，对常见家庭物品进行识别。
 - 机械臂操控：结合 ROS 实时图像、点云和 TF 坐标变换，完成抓取任务。
 - 语音系统：基于 Azure 与科大讯飞实现语音转文字、文字转语音。
 
-### 中国国际大学生创新大赛（2024.05-2024.06）
+<h3 style="display:flex; justify-content:space-between; align-items:flex-start; gap:1rem;">
+  <span>中国国际大学生创新大赛（2024.05-2024.06）</span>
+  <span style="font-size:0.85em; white-space:nowrap; color:#666;">Regional 2nd Prize</span>
+</h3>
+
 - 机器人定位：利用单线激光雷达和 IMU，基于 Gmapping 完成建图。
 - 机械臂操控抓取：开发基于微雪机械臂的运动控制算法，实现精准抓取。
 
